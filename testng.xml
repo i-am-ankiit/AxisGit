@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="TestNG.Data_driven.AppTest"/>
+      <class name="TestNG.Data_driven.readExcel"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

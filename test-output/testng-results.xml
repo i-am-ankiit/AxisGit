@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-27T14:09:02 IST" name="Default suite" finished-at="2024-02-27T14:09:06 IST" duration-ms="3705">
+  <suite started-at="2024-02-28T10:41:42 IST" name="Suite" finished-at="2024-02-28T10:41:47 IST" duration-ms="5091">
     <groups>
     </groups>
-    <test started-at="2024-02-27T14:09:02 IST" name="Default test" finished-at="2024-02-27T14:09:06 IST" duration-ms="3705">
-      <class name="TestNG.Data_driven.WriteExcel">
-        <test-method signature="fblogin()[pri:0, instance:TestNG.Data_driven.WriteExcel@290222c1]" started-at="2024-02-27T14:09:02 IST" name="fblogin" finished-at="2024-02-27T14:09:06 IST" duration-ms="3661" status="PASS">
+    <test started-at="2024-02-28T10:41:42 IST" name="Test" finished-at="2024-02-28T10:41:47 IST" duration-ms="5091">
+      <class name="TestNG.Data_driven.readExcel">
+        <test-method signature="fblogin()[pri:0, instance:TestNG.Data_driven.readExcel@12aba8be]" started-at="2024-02-28T10:41:42 IST" name="fblogin" finished-at="2024-02-28T10:41:47 IST" duration-ms="5053" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fblogin -->
-      </class> <!-- TestNG.Data_driven.WriteExcel -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- TestNG.Data_driven.readExcel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
