@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-28T10:41:42 IST" name="Suite" finished-at="2024-02-28T10:41:47 IST" duration-ms="5091">
+  <suite started-at="2024-02-29T22:59:53 IST" name="Suite" finished-at="2024-02-29T22:59:59 IST" duration-ms="5544">
     <groups>
     </groups>
-    <test started-at="2024-02-28T10:41:42 IST" name="Test" finished-at="2024-02-28T10:41:47 IST" duration-ms="5091">
+    <test started-at="2024-02-29T22:59:53 IST" name="Test" finished-at="2024-02-29T22:59:59 IST" duration-ms="5544">
       <class name="TestNG.Data_driven.readExcel">
-        <test-method signature="fblogin()[pri:0, instance:TestNG.Data_driven.readExcel@12aba8be]" started-at="2024-02-28T10:41:42 IST" name="fblogin" finished-at="2024-02-28T10:41:47 IST" duration-ms="5053" status="PASS">
+        <test-method signature="fblogin()[pri:0, instance:TestNG.Data_driven.readExcel@12aba8be]" started-at="2024-02-29T22:59:53 IST" name="fblogin" finished-at="2024-02-29T22:59:59 IST" duration-ms="5510" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fblogin -->
